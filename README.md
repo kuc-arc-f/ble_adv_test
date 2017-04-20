@@ -10,7 +10,7 @@
 ***
 
 ## Summary
- Advertising(Advertising ) send adv data,
+ Advertising(Peripheral device ) send adv data,
 
  client(Central device ) receive.
 
